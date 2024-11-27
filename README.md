@@ -1,7 +1,7 @@
 # RansomwarePython-PoC
 
 Ransomware is a type of malicious software (malware) designed to block access to a computer system, its files, or its data until a sum of money (ransom) is paid. It often encrypts files or locks systems, making them inaccessible to the user. 
-This is a Ransomware Simulation in Python. It encrypts and decrypts the data (i.e. either a txt or png file) using a predefined key. If there is no key, encryption and decryption cannot be performed.
+<br>This is a Ransomware Simulation in Python. It encrypts and decrypts the data (i.e. either a txt or png file) using a predefined key. If there is no key, encryption and decryption cannot be performed.
 
 <b> Components:
 <ol>
