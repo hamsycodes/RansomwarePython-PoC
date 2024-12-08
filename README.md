@@ -10,3 +10,7 @@ Ransomware is a type of malicious software (malware) designed to block access to
 <li><b> TXT File (Sample Text File) </b></li>
 <li><b> PythonLogo File (Sample PNG) </b></li>
 </ol>
+
+Below I have pasted the link for the entire blogpost.
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamsnoesnothin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamsnoesnothin/0" alt="Recent Article 0"> 
